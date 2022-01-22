@@ -132,3 +132,6 @@ dmypy.json
 model_dict/*
 *.csv
 Plot/output/*
+
+#ide
+.idea/
